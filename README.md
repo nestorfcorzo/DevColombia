@@ -5,5 +5,5 @@
   - Scrum Master: Nestor Fabian Corzo
   - Product owner: Hermes Duvan Martinez Zambrano 
   - Developer 1: Alejandro Perez Molina
-  - Developer 2:
+  - Developer 2: Leiner Libardo Mendoza Rodriguez 
   - Developer 3:
